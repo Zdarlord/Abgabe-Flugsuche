@@ -1,0 +1,1 @@
+# Verzeichnis für alle statischen Dateien bzw. Assets, die zur Ausführung der Anwendung benötigt werden

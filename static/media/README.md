@@ -1,0 +1,1 @@
+# Verzeichnis für Grafiken, Icons, Videos und andere Mediendaten

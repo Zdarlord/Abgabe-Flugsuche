@@ -1,0 +1,1 @@
+# Verzeichnis für alle externen JavaScript-Files

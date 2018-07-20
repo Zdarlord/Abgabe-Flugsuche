@@ -1,0 +1,1 @@
+# Verzeichnis für externe Bibliotheken und Frameworks, die in der Anwendung genutzt werden
